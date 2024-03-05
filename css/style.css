@@ -232,7 +232,6 @@ body{
 }
 .img_cars {
     margin-top: 50px;
-    width: auto;
 }
 .img_cars:last-child{
     margin-top: 0;
@@ -357,7 +356,6 @@ body{
     background-color: #1c1818;
 }
 .Map_im{
-    width: auto;
     padding-left: 60px;
 }
 /*footer*/
